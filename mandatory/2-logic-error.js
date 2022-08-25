@@ -7,7 +7,7 @@ function trimWord(word) {
 
 function getStringLength(word) {
 
-  return word.lengt ;
+  return word.length;
   
 }
 
